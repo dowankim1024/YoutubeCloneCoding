@@ -1,0 +1,182 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Rw546W_JWzK3EUl3myBZIJQMjIg",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 30862,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0jm7xMRpkX7g-_Aqjg8kCUv0Nw4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jyDqEr9usxw"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-12T03:00:11Z",
+        "channelId": "UCEUYW6zm6KnUxPcwY1D8HsQ",
+        "title": "Surfing Epic XL Pipeline (2025)  4K HDR",
+        "description": "Bazai Pipeline, on the North Shore of Oahu, is the most photographed wave in the world. From its sheer natural beauty to all the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jyDqEr9usxw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jyDqEr9usxw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jyDqEr9usxw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Eimy’s Hawaii Happy life 🏄🏻",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-12T03:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vAWTmq90-U5MmvHfLGIYEGtRJx8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1c-4NxXvH-g"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-04T07:20:57Z",
+        "channelId": "UCjIuqG1hCxUdLLxOD_uR0vQ",
+        "title": "Pro Surfer Goes Down Hard! #pipeline  #surfing",
+        "description": "Pro surfer Joao Chianca from Brazil wipes out at Backdoor while surfing in Hawaii. Glad to report he is in stable condition.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1c-4NxXvH-g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1c-4NxXvH-g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1c-4NxXvH-g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Surfers of Hawaii",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-04T07:20:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Bp9N7UzTfIzfq9SstjUStoC_dSc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wPu2oeeODs8"
+      },
+      "snippet": {
+        "publishedAt": "2024-09-22T18:45:03Z",
+        "channelId": "UCBoZsAdQETVp2WsN7Unvgmg",
+        "title": "SURF LADIES 🏄\u200d♀️ Surfing The Barrel in HAWAII 🏄🏼\u200d♂️ #surf #surfergirl #slowmotion",
+        "description": "A Surfer girl attempts a tube ride at Bowls in Waikiki, Hawaii, but fails. If you enjoyed this video, please Like, Subscribe and Share.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wPu2oeeODs8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wPu2oeeODs8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wPu2oeeODs8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Surf Ladies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-09-22T18:45:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9gi_0jWGozLlHKKfPQ5ZoqeA97s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IiPk1VmKJTc"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-18T19:00:10Z",
+        "channelId": "UCjIuqG1hCxUdLLxOD_uR0vQ",
+        "title": "Kelly Slaters Back Side No Grab at Pipeline",
+        "description": "11x World Champion Kelly Slater makes this wave without grabbing his rail. Only Kelly could! Just a reminder, Pipeline is no joke.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IiPk1VmKJTc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IiPk1VmKJTc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IiPk1VmKJTc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Surfers of Hawaii",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-18T19:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FEUstv7Z4PfF16NR_OyNNYCjGc0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ob6IuDT7Pbc"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-25T10:47:27Z",
+        "channelId": "UChwcR1JtKpuN0xyTAyvIP0Q",
+        "title": "John John Florence Surfing His Backyard",
+        "description": "John John Florence's Backyard is a surfer's dream, featuring waves like Banzai Pipeline, Backdoor, Sunset, and more it is one of a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ob6IuDT7Pbc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ob6IuDT7Pbc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ob6IuDT7Pbc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "𝕊𝕌ℝ𝔽𝔾𝕌𝕀𝔻𝔼𝕊 ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-25T10:47:27Z"
+      }
+    }
+  ]
+}
